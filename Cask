@@ -12,13 +12,12 @@
 
  ;; Various modes for use in the unit tests
  (depends-on "adoc-mode")
- (depends-on "bazel-mode")
+ ;; (depends-on "bazel-mode")      ; requires Emacs 26+
  (depends-on "coffee-mode")
  (depends-on "cperl-mode")
  (depends-on "cwl-mode")
  (depends-on "d-mode")
  (depends-on "dockerfile-mode")
- (depends-on "elixir-mode")
  (depends-on "erlang")
  (depends-on "ess")
  (depends-on "geiser")
