@@ -12,3 +12,6 @@
 
 # Directory local variables
 .dir-locals.el
+
+# autoloads
+flycheck-autoloads.el
